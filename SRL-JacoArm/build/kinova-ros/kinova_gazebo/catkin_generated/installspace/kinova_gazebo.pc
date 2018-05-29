@@ -1,0 +1,8 @@
+prefix=/home/srl-jacoarm/Desktop/SRL-JacoArm/install
+
+Name: kinova_gazebo
+Description: Description of kinova_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/srl-jacoarm/Desktop/SRL-JacoArm/install/lib 
+Requires: 
