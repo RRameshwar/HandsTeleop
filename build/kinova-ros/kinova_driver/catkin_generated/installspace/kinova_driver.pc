@@ -1,8 +1,0 @@
-prefix=/home/srl-jacoarm/Desktop/SRL-JacoArm/install
-
-Name: kinova_driver
-Description: Description of kinova_driver
-Version: 0.0.1
-Cflags: -I/home/srl-jacoarm/Desktop/SRL-JacoArm/install/include
-Libs: -L/home/srl-jacoarm/Desktop/SRL-JacoArm/install/lib -lkinova_driver
-Requires: actionlib actionlib_msgs geometry_msgs kinova_msgs roscpp rospy sensor_msgs std_msgs tf interactive_markers visualization_msgs

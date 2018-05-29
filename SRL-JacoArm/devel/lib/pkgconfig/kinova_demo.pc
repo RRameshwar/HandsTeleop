@@ -1,8 +1,0 @@
-prefix=/home/srl-jacoarm/Desktop/SRL-JacoArm/devel
-
-Name: kinova_demo
-Description: Description of kinova_demo
-Version: 0.0.1
-Cflags: 
-Libs: -L/home/srl-jacoarm/Desktop/SRL-JacoArm/devel/lib 
-Requires: kinova_driver kinova_msgs roscpp rospy std_msgs geometry_msgs

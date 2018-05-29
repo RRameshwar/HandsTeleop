@@ -1,8 +1,0 @@
-prefix=/home/srl-jacoarm/Desktop/SRL-JacoArm/devel
-
-Name: j2n6s300_moveit_config
-Description: Description of j2n6s300_moveit_config
-Version: 0.2.0
-Cflags: 
-Libs: -L/home/srl-jacoarm/Desktop/SRL-JacoArm/devel/lib 
-Requires: 
