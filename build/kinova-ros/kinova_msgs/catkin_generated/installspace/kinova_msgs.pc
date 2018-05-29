@@ -1,0 +1,8 @@
+prefix=/home/srl-jacoarm/Desktop/SRL-JacoArm/install
+
+Name: kinova_msgs
+Description: Description of kinova_msgs
+Version: 0.0.1
+Cflags: -I/home/srl-jacoarm/Desktop/SRL-JacoArm/install/include
+Libs: -L/home/srl-jacoarm/Desktop/SRL-JacoArm/install/lib 
+Requires: actionlib_msgs geometry_msgs message_runtime
