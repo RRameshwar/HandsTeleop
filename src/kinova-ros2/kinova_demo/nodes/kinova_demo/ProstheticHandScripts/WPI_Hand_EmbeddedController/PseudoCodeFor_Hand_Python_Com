@@ -1,0 +1,18 @@
+
+while(t<t_end)
+	keep_receiving_data()
+	if(triggered)
+		send 'close' signal
+
+
+[Done] Print a piece of data sent from Arduino on Python console.
+[Done] Keep printing data but use a trigger signal to open/close the robot hand.
+
+[Done] Minor bug while snyched motion
+[Done] Assemble hand onto the jaco arm
+[Done] Write python script to save data on .csv file. Also write something to plot using plotly or matplotlib.
+[xxx] Do grasp experiments without shear detection
+[xxx] Integrate shear detection for release trigger
+[xxx] Write a motion plan to stop jaco arm from moving when shear detection is triggered.
+
+[xxx] Try using IMU data for hand stabilization.
